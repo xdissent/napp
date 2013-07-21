@@ -1,0 +1,11 @@
+{
+  "name": "napp",
+  "version": "0.0.0",
+  "description": "Node Express app with Dockerfile",
+  "main": "server.js",
+  "author": "Greg Thornton <xdissent@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.3.4"
+  }
+}
